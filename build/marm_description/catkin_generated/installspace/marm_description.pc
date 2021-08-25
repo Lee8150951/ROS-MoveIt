@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/ROS-moveit/install
+
+Name: marm_description
+Description: Description of marm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/ROS-moveit/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+marm_description:marm_gazebo:marm_moveit_config:marm_planning
+-DCATKIN_DEVEL_PREFIX=/home/jacob/Desktop/ROS-moveit/devel -DCMAKE_INSTALL_PREFIX=/home/jacob/Desktop/ROS-moveit/install -G Unix Makefiles

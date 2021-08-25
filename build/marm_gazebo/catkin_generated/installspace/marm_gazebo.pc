@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/ROS-moveit/install
+
+Name: marm_gazebo
+Description: Description of marm_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/ROS-moveit/install/lib 
+Requires: 

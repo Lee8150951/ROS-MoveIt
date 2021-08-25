@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/ROS-moveit/devel
+
+Name: mrobot_gazebo
+Description: Description of mrobot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/ROS-moveit/devel/lib 
+Requires: 
